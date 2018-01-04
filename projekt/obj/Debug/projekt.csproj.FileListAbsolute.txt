@@ -1,0 +1,92 @@
+H:\projekt\projekt\bin\Debug\projekt.exe.config
+H:\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+H:\projekt\projekt\obj\Debug\projekt.Form1.resources
+H:\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+H:\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+H:\projekt\projekt\bin\Debug\projekt.exe
+H:\projekt\projekt\bin\Debug\projekt.pdb
+H:\projekt\projekt\obj\Debug\projekt.exe
+H:\projekt\projekt\obj\Debug\projekt.pdb
+E:\projekt\projekt\bin\Debug\projekt.exe.config
+E:\projekt\projekt\obj\Debug\projekt.exe
+E:\projekt\projekt\obj\Debug\projekt.pdb
+D:\projekt\projekt\bin\Debug\projekt.exe.config
+D:\projekt\projekt\obj\Debug\projekt.exe
+D:\projekt\projekt\obj\Debug\projekt.pdb
+D:\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+D:\projekt\projekt\obj\Debug\projekt.Form1.resources
+D:\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+D:\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+D:\projekt\projekt\bin\Debug\projekt.exe
+D:\projekt\projekt\bin\Debug\projekt.pdb
+D:\Nowy folder\projekt\projekt\bin\Debug\projekt.exe.config
+D:\Nowy folder\projekt\projekt\obj\Debug\projekt.exe
+D:\Nowy folder\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\lukas\Desktop\testy\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\lukas\Desktop\testy\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\lukas\Desktop\testy\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\lukas\Desktop\testy\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+D:\Działające\projekt\projekt\bin\Debug\projekt.exe.config
+D:\Działające\projekt\projekt\obj\Debug\projekt.exe
+D:\Działające\projekt\projekt\obj\Debug\projekt.pdb
+D:\Działające\projekt\projekt\bin\Debug\projekt.exe
+D:\Działające\projekt\projekt\bin\Debug\projekt.pdb
+D:\Działające\projekt\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+D:\Działające\projekt\projekt\obj\Debug\projekt.Form1.resources
+D:\Działające\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+D:\Działające\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\lukas\Desktop\Notepad #\projekt\bin\Debug\projekt.exe.config
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.exe
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.pdb
+C:\Users\lukas\Desktop\Notepad #\projekt\bin\Debug\projekt.exe
+C:\Users\lukas\Desktop\Notepad #\projekt\bin\Debug\projekt.pdb
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\lukas\Desktop\Notepad #\projekt\obj\Debug\projekt.informacje.resources
+G:\Działające\Notepad #\projekt\bin\Debug\projekt.exe.config
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.exe
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.pdb
+G:\Działające\Notepad #\projekt\bin\Debug\projekt.exe
+G:\Działające\Notepad #\projekt\bin\Debug\projekt.pdb
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.Form1.resources
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.informacje.resources
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.Properties.Resources.resources
+G:\Działające\Notepad #\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+G:\Notepad #\projekt\bin\Debug\projekt.exe.config
+G:\Notepad #\projekt\obj\Debug\projekt.exe
+G:\Notepad #\projekt\obj\Debug\projekt.pdb
+G:\Notepad #\projekt\bin\Debug\projekt.exe
+G:\Notepad #\projekt\bin\Debug\projekt.pdb
+G:\Notepad #\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+G:\Notepad #\projekt\obj\Debug\projekt.Form1.resources
+G:\Notepad #\projekt\obj\Debug\projekt.informacje.resources
+G:\Notepad #\projekt\obj\Debug\projekt.Properties.Resources.resources
+G:\Notepad #\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\lukas\Desktop\Notepad # całość\projekt\bin\Debug\projekt.exe.config
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.exe
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.pdb
+C:\Users\lukas\Desktop\Notepad # całość\projekt\bin\Debug\projekt.exe
+C:\Users\lukas\Desktop\Notepad # całość\projekt\bin\Debug\projekt.pdb
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.informacje.resources
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\lukas\Desktop\Notepad # całość\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\bin\Debug\projekt.exe.config
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\bin\Debug\projekt.exe
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\bin\Debug\projekt.pdb
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.informacje.resources
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.exe
+C:\Users\Łukasz\Desktop\Notepad # całość\projekt\obj\Debug\projekt.pdb
